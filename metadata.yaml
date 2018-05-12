@@ -1,5 +1,8 @@
 _repo: Selected-Speeches-on-British-Foreign-Policy-1738-1914_10990
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Jones, Edgar R. (Edgar Rees), Sir
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '35090'
     url: http://www.gutenberg.org/2009/agents/35090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10990#Selected-Speeches-on-British-Foreign-Policy-1738-1914
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
